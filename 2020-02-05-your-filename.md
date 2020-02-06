@@ -17,6 +17,4 @@ At the beginning of the 70s, more packet-switching networks were created, so Rob
 
 The Wifi
 In 1977, Dennis Hayes and Dale Heatherington built the first PC modem. At the turn of the century, broadband technology combined routers, network switches, Wifi, and modems were combined into one device. 
-Hedy Lamarr, an actress of Hollywood glamour, came up with an idea of the Wifi in 1940, which is a radio signal which changes its frequencies continuously in able to transmit sign from the source to the receiver. In 1971, a computer network at the University of Hawaii was formed based on the technology that Hedy invented, which was the first wireless network. The term Wifi is latter coined in 1999 by Interbrand. ## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Hedy Lamarr, an actress of Hollywood glamour, came up with an idea of the Wifi in 1940, which is a radio signal which changes its frequencies continuously in able to transmit sign from the source to the receiver. In 1971, a computer network at the University of Hawaii was formed based on the technology that Hedy invented, which was the first wireless network. The term Wifi is latter coined in 1999 by Interbrand.
